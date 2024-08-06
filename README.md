@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <p>
     Applying my machine learning expertise to enhance operational efficiencies and decision-making processes. My professional experience includes significant roles where I've integrated AI solutions to optimize data processes. As an AWS Certified Cloud Practitioner, I leverage data to drive strategic business improvements and innovations.
   </p>
-  <p>- 🔭 I’m currently working on Machine Learning/Data Analysis Projects</p>
+  <p>- 🔭 I’m currently working on Machine Learning/Data Engineering Projects</p>
   <p>- 🌱 I’m learning AWS Cloud Services, Artificial Intelligence and Data Science</p>
 </div>
 
