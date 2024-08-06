@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Heyy There 👋!</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&random=false&width=435&lines=I'm+Data+Engineer;I'm+ML+Enthusiast;I'm+Freelancer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&random=false&width=435&lines=I'm+Data+Engineer;I'm+an+ML/GenAI+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 <div>
