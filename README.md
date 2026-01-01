@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+GenAI+Enthusiast;Building+Agentic+AI+and+RAG+Pipelines;AWS+Certified+GenAI+Developer;Optimizing+Decision+Making+with+Data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=1000&lines=Software+Developer+%7C+GenAI+Enthusiast;Building+Agentic+AI+and+RAG+Pipelines;AWS+Certified+GenAI+Developer;Optimizing+Decision+Making+with+Data" alt="Typing SVG" />
   </a>
 </div>
 
@@ -105,7 +105,7 @@
 
 ### Certifications
 
-1. **[AWS Certified Generative AI Developer - Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/)** (In Progress)
+1. **AWS Certified Generative AI Developer - Professional**
 2. **[Anthropic MCP: Model Context Protocol](https://verify.skilljar.com/c/9oa7bo3tojzx)**
 3. **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/8fdeff96-1bbb-44d2-9306-cda8a24655c5?source=linked_in_profile)**
 4. **[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/mani-balanolla/credentials/83539399e760163e?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
@@ -113,6 +113,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AR6420&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR6420&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
