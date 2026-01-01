@@ -113,6 +113,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AR6420&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR6420&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AR6420&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AR6420&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
