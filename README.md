@@ -17,6 +17,15 @@
   </p>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AR6420&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AR6420&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
 <div align="center">
   <a href="mailto:adarshreddybms@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -111,8 +120,3 @@
 4. **[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/mani-balanolla/credentials/83539399e760163e?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AR6420&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AR6420&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
