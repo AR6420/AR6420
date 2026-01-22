@@ -110,7 +110,7 @@
 
 ### Certifications
 
-1. **AWS Certified Generative AI Developer - Professional**
+1. **[AWS Certified Generative AI Developer - Professional](https://www.credly.com/badges/6a4e1835-59b6-4f99-ab72-2afc6b4da41b/linked_in_profile)**
 2. **[Anthropic MCP: Model Context Protocol](https://verify.skilljar.com/c/9oa7bo3tojzx)**
 3. **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/8fdeff96-1bbb-44d2-9306-cda8a24655c5?source=linked_in_profile)**
 4. **[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/mani-balanolla/credentials/83539399e760163e?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
