@@ -25,6 +25,9 @@
   <a href="https://www.linkedin.com/in/balanolla/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://ar6420.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br/>
